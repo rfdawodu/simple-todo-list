@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+body {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+input {
+  margin: 1rem auto;
+  display: block;
+  border: 1px solid black;
+  padding: 0.7rem;
+  width: 12rem;
+  font: 1em sans-serif;
+}
+.checkbox {
+  margin-left: -20rem;
+  margin-top: -2rem;
+}
+.completed {
+  text-decoration: line-through;
+}
+.delete {
+  margin-left: 8rem;
+}
